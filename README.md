@@ -1,56 +1,77 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Banner profissional de Cauã Alves" width="100%" />
+  <img src="./assets/banner.svg" alt="Banner dark cybersecurity de cau4svg" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
   <a href="https://github.com/cau4svg">
-    <img src="https://img.shields.io/badge/GitHub-cau4svg-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub cau4svg" />
+    <img src="https://img.shields.io/badge/GitHub-cau4svg-050B0E?style=for-the-badge&logo=github&logoColor=00FF88" alt="GitHub cau4svg" />
   </a>
-  <img src="https://img.shields.io/badge/Brazil-0f766e?style=for-the-badge&logo=googleearth&logoColor=white" alt="Brazil" />
-  <img src="https://img.shields.io/badge/Junior%20Developer-In%20progress-334155?style=for-the-badge" alt="Junior developer in progress" />
+  <img src="https://img.shields.io/badge/APIs-Security-Automation-00FF88?style=for-the-badge&labelColor=050B0E&color=00FF88" alt="APIs Security Automation" />
+  <img src="https://img.shields.io/badge/Backend-DevSecOps%20Mindset-00B7FF?style=for-the-badge&labelColor=050B0E&color=00B7FF" alt="Backend DevSecOps mindset" />
 </div>
 
-## About me
+<br />
 
-I am **Cauã Alves**, a junior developer from Brazil with an infrastructure background and a growing interest in process automation, APIs, backend development, integrations and cybersecurity fundamentals.
+<h1 align="center">cau4svg</h1>
 
-I am building my technical base through practical projects, small automations and continuous study. My focus is to solve real operational problems with clear, maintainable and useful technology.
+<p align="center">
+  <strong>Desenvolvedor junior com base em infraestrutura, foco em automacao de processos, APIs, backend e fundamentos de seguranca.</strong>
+</p>
+
+<p align="center">
+  Construindo uma base tecnica solida com projetos praticos, integracoes e ferramentas que resolvem problemas reais.
+</p>
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## Current knowledge
+## Sobre mim
 
-| Area | Current level | Focus |
+Meu nome e **Cau&atilde; Alves**, sou do Brasil e estou evoluindo como desenvolvedor com uma base previa em infraestrutura. Tenho interesse em backend, automacoes, APIs, integracoes, seguranca aplicada e cultura DevSecOps.
+
+Meu objetivo e criar projetos simples, uteis e bem documentados, conectando desenvolvimento com operacao, seguranca basica e melhoria de fluxos.
+
+```txt
+profile://cau4svg
+role: junior developer
+base: infrastructure
+focus: automation, APIs, backend, security fundamentals
+status: learning in public and building practical tools
+```
+
+## Conhecimentos atuais
+
+| Area | Nivel atual | Direcao |
 | --- | --- | --- |
-| Infrastructure | Intermediate | Linux basics, environments, troubleshooting and operational routines |
-| Cybersecurity | Basic | Security fundamentals, safe practices and awareness |
-| Development | Junior | Backend logic, APIs, scripts and web fundamentals |
-| Process automation | Practicing | Repetitive task reduction, integrations and workflow improvements |
+| Infraestrutura | Mediano | Linux, ambientes, troubleshooting e rotinas operacionais |
+| Cybersecurity | Basico | Boas praticas, fundamentos, riscos comuns e seguranca aplicada |
+| Desenvolvimento | Junior | Backend, scripts, APIs, Git e fundamentos web |
+| Automacao | Em pratica | Reducao de tarefas repetitivas, integracoes e melhoria de processos |
 
 <br />
 
-## Technical stack
+## Stack e ferramentas
 
 <br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,git,github,linux,docker&theme=light" alt="JavaScript, TypeScript, Node.js, Python, HTML, CSS, Git, GitHub, Linux and Docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,git,github,linux,docker&theme=dark" alt="JavaScript, TypeScript, Node.js, Python, HTML, CSS, Git, GitHub, Linux e Docker" />
 </div>
 
 <br />
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/APIs-0F766E?style=flat-square" alt="APIs" />
-  <img src="https://img.shields.io/badge/Automation-334155?style=flat-square" alt="Automation" />
-  <img src="https://img.shields.io/badge/Security%20Fundamentals-475569?style=flat-square" alt="Security fundamentals" />
+  <img src="https://img.shields.io/badge/JavaScript-050B0E?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-050B0E?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-050B0E?style=flat-square&logo=nodedotjs&logoColor=00FF88" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-050B0E?style=flat-square&logo=python&logoColor=00B7FF" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-050B0E?style=flat-square&logo=linux&logoColor=E5E7EB" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-050B0E?style=flat-square&logo=docker&logoColor=00B7FF" alt="Docker" />
+  <img src="https://img.shields.io/badge/APIs-050B0E?style=flat-square&logo=fastapi&logoColor=00FF88" alt="APIs" />
+  <img src="https://img.shields.io/badge/Automation-050B0E?style=flat-square&logo=githubactions&logoColor=00FF88" alt="Automation" />
+  <img src="https://img.shields.io/badge/Security%20Fundamentals-050B0E?style=flat-square&logo=hackthebox&logoColor=00FF88" alt="Security fundamentals" />
 </div>
 
 <br />
@@ -58,16 +79,73 @@ I am building my technical base through practical projects, small automations an
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## Contact
+## Foco atual
+
+- Criar automacoes para reduzir tarefas manuais e repetitivas.
+- Estudar fundamentos de seguranca e aplicar boas praticas em projetos.
+- Melhorar backend com Node.js, TypeScript e Python.
+- Trabalhar com APIs, webhooks, integracoes e fluxos de dados.
+- Documentar projetos com clareza para facilitar uso, manutencao e evolucao.
+
+## Areas de atuacao
+
+| Area | O que estou construindo |
+| --- | --- |
+| APIs e integracoes | Conexoes entre servicos, consumo de dados, webhooks e fluxos automatizados |
+| Backend | Scripts, endpoints, validacoes, organizacao de codigo e servicos simples |
+| Automacao | Ferramentas para acelerar rotinas, reduzir erro manual e melhorar operacoes |
+| Infraestrutura | Ambiente Linux, GitHub Actions, Docker e organizacao de deploys simples |
+| Seguranca | Fundamentos, boas praticas, leitura de riscos e hardening basico |
+
+## Projetos
+
+Ainda estou organizando os repositorios que quero destacar. A ideia e priorizar projetos pequenos, funcionais e bem documentados, com foco em:
+
+- automacoes de processos;
+- integracoes com APIs;
+- ferramentas para desenvolvedores;
+- backend utilitario;
+- estudos praticos de seguranca.
+
+<img src="./assets/divider.svg" alt="" width="100%" />
+
+## GitHub stats
 
 <div align="center">
-  <a href="https://github.com/cau4svg">
-    <img src="https://img.shields.io/badge/GitHub-cau4svg-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub cau4svg" />
+  <a href="https://github.com/cau4svg?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositorios-Ver%20codigo-050B0E?style=for-the-badge&logo=github&logoColor=00FF88&labelColor=050B0E&color=0B1117" alt="Ver repositorios de cau4svg" />
+  </a>
+  <a href="https://github.com/cau4svg?tab=followers">
+    <img src="https://img.shields.io/github/followers/cau4svg?style=for-the-badge&logo=github&label=Followers&labelColor=050B0E&color=0B1117" alt="Seguidores no GitHub" />
+  </a>
+  <a href="https://github.com/cau4svg?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-Referencias%20tecnicas-050B0E?style=for-the-badge&logo=github&logoColor=00B7FF&labelColor=050B0E&color=0B1117" alt="Stars e referencias tecnicas" />
   </a>
 </div>
 
 <br />
 
 <p align="center">
-  Open to learning, building and collaborating on practical projects involving automation, APIs, backend, infrastructure and security fundamentals.
+  Preferi usar metricas leves e estaveis para evitar cards externos quebrados no README.
 </p>
+
+## Automacao opcional
+
+O workflow `.github/workflows/generate-snake.yml` pode gerar uma snake animation na branch `output`. Recomendo ativar a imagem no README apenas depois que o workflow rodar com sucesso, para evitar placeholders quebrados.
+
+## Contato
+
+<div align="center">
+  <a href="https://github.com/cau4svg">
+    <img src="https://img.shields.io/badge/GitHub-cau4svg-050B0E?style=for-the-badge&logo=github&logoColor=00FF88" alt="GitHub cau4svg" />
+  </a>
+</div>
+
+<br />
+
+```txt
+> building practical tools
+> learning security fundamentals
+> automating repetitive workflows
+> commit --message "keep improving"
+```

@@ -9,6 +9,7 @@ This file records decisions and dependencies used in the profile README.
 - Country: Brazil
 - Expected profile repository: `cau4svg/cau4svg`
 - Main file: `README.md`
+- Visual direction: dark cybersecurity, terminal, APIs, automation, backend and security fundamentals.
 
 ## External dependencies used in the README
 
@@ -22,6 +23,7 @@ This file records decisions and dependencies used in the profile README.
 - LinkedIn URL, if it should be public.
 - Real repositories to highlight when they are ready.
 - Final short bio, if the current one needs refinement.
+- Pinned repositories that represent automation, APIs, backend and security fundamentals.
 
 ## Notes
 
@@ -30,3 +32,4 @@ This file records decisions and dependencies used in the profile README.
 - Local images live in `assets/`.
 - The snake animation only appears after the workflow publishes the `output` branch.
 - Unstable external stat cards are intentionally avoided in the README to prevent broken images.
+- The README intentionally avoids claiming seniority or advanced cybersecurity expertise.

@@ -1,51 +1,70 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Cauã Alves GitHub profile banner</title>
-  <desc id="desc">Clean tech banner for a junior developer focused on infrastructure, automation, APIs, backend and security fundamentals.</desc>
+  <title id="title">cau4svg dark cybersecurity banner</title>
+  <desc id="desc">Dark cybersecurity GitHub banner with terminal, logs, network nodes, API requests, lock, circuits and neon green blue accents.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0B1120"/>
-      <stop offset="0.52" stop-color="#132F3A"/>
-      <stop offset="1" stop-color="#0F766E"/>
+      <stop stop-color="#020403"/>
+      <stop offset="0.48" stop-color="#061013"/>
+      <stop offset="1" stop-color="#071B2A"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(920 80) rotate(138) scale(420 220)">
-      <stop stop-color="#5EEAD4" stop-opacity="0.34"/>
-      <stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/>
+    <radialGradient id="greenGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(240 104) rotate(35) scale(500 210)">
+      <stop stop-color="#00FF88" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#00FF88" stop-opacity="0"/>
     </radialGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
-      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#020617" flood-opacity="0.3"/>
+    <radialGradient id="blueGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1010 82) rotate(143) scale(430 210)">
+      <stop stop-color="#00B7FF" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#00B7FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#12312A" stroke-width="1" opacity="0.45"/>
+    </pattern>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="20" stdDeviation="20" flood-color="#000000" flood-opacity="0.5"/>
     </filter>
   </defs>
 
-  <rect width="1200" height="360" rx="32" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="32" fill="url(#glow)"/>
-  <path d="M0 284C134 232 258 318 402 274C548 230 624 104 782 96C930 88 1024 220 1200 172V360H0V284Z" fill="#020617" opacity="0.38"/>
-  <path d="M78 82H358" stroke="#99F6E4" stroke-width="2" stroke-linecap="round" opacity="0.35"/>
-  <path d="M78 278H520" stroke="#99F6E4" stroke-width="2" stroke-linecap="round" opacity="0.18"/>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)" opacity="0.52"/>
+  <rect width="1200" height="360" rx="28" fill="url(#greenGlow)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#blueGlow)"/>
 
-  <g filter="url(#shadow)">
-    <rect x="762" y="72" width="334" height="216" rx="24" fill="#0F172A" fill-opacity="0.68" stroke="#5EEAD4" stroke-opacity="0.24"/>
-    <circle cx="804" cy="114" r="7" fill="#64748B"/>
-    <circle cx="828" cy="114" r="7" fill="#0F766E"/>
-    <circle cx="852" cy="114" r="7" fill="#5EEAD4"/>
-    <path d="M804 166L854 192L804 218" stroke="#5EEAD4" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M886 222H1018" stroke="#E2E8F0" stroke-width="9" stroke-linecap="round"/>
-    <path d="M886 162H1042" stroke="#94A3B8" stroke-width="7" stroke-linecap="round" opacity="0.9"/>
-    <path d="M886 190H1008" stroke="#94A3B8" stroke-width="7" stroke-linecap="round" opacity="0.58"/>
-    <path d="M804 252H1052" stroke="#334155" stroke-width="2" stroke-linecap="round"/>
+  <path d="M0 286C146 238 250 314 404 270C548 229 610 104 770 94C924 84 1014 210 1200 166V360H0V286Z" fill="#000000" opacity="0.35"/>
+
+  <g opacity="0.42">
+    <path d="M60 72H330M60 288H490M806 306H1138" stroke="#00FF88" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M866 70H1116" stroke="#00B7FF" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M872 94L940 132L1016 102L1088 154" stroke="#00B7FF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="872" cy="94" r="5" fill="#00B7FF"/>
+    <circle cx="940" cy="132" r="5" fill="#00FF88"/>
+    <circle cx="1016" cy="102" r="5" fill="#00B7FF"/>
+    <circle cx="1088" cy="154" r="5" fill="#00FF88"/>
   </g>
 
-  <text x="80" y="134" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="-1.5">Cauã Alves</text>
-  <text x="82" y="178" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="600">Junior Developer • Infrastructure • Automation</text>
-  <text x="82" y="220" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="18">APIs, backend, integrations and security fundamentals.</text>
+  <g filter="url(#softShadow)">
+    <rect x="736" y="86" width="356" height="190" rx="18" fill="#050B0E" fill-opacity="0.82" stroke="#00FF88" stroke-opacity="0.34"/>
+    <rect x="736" y="86" width="356" height="36" rx="18" fill="#071B2A" fill-opacity="0.82"/>
+    <circle cx="762" cy="104" r="5" fill="#FF4D4D" opacity="0.72"/>
+    <circle cx="782" cy="104" r="5" fill="#FFD166" opacity="0.72"/>
+    <circle cx="802" cy="104" r="5" fill="#00FF88" opacity="0.72"/>
+    <text x="760" y="154" fill="#00FF88" font-family="Consolas, 'Courier New', monospace" font-size="16">GET /api/status 200</text>
+    <text x="760" y="184" fill="#9CA3AF" font-family="Consolas, 'Courier New', monospace" font-size="15">auth: token verified</text>
+    <text x="760" y="214" fill="#00B7FF" font-family="Consolas, 'Courier New', monospace" font-size="15">job: workflow.sync()</text>
+    <text x="760" y="244" fill="#E5E7EB" font-family="Consolas, 'Courier New', monospace" font-size="15">trace: automation ready</text>
+  </g>
 
-  <g opacity="0.82">
-    <rect x="82" y="246" width="74" height="30" rx="15" fill="#ECFEFF" fill-opacity="0.11" stroke="#A7F3D0" stroke-opacity="0.22"/>
-    <text x="104" y="267" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">APIs</text>
-    <rect x="170" y="246" width="112" height="30" rx="15" fill="#ECFEFF" fill-opacity="0.11" stroke="#A7F3D0" stroke-opacity="0.22"/>
-    <text x="190" y="267" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Automation</text>
-    <rect x="296" y="246" width="104" height="30" rx="15" fill="#ECFEFF" fill-opacity="0.11" stroke="#A7F3D0" stroke-opacity="0.22"/>
-    <text x="318" y="267" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Backend</text>
-    <rect x="414" y="246" width="104" height="30" rx="15" fill="#ECFEFF" fill-opacity="0.11" stroke="#A7F3D0" stroke-opacity="0.22"/>
-    <text x="435" y="267" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Security</text>
+  <g opacity="0.9">
+    <path d="M631 146V128C631 105 650 86 673 86C696 86 715 105 715 128V146" stroke="#00FF88" stroke-width="8" stroke-linecap="round"/>
+    <rect x="612" y="144" width="122" height="92" rx="18" fill="#061013" stroke="#00FF88" stroke-width="4"/>
+    <circle cx="673" cy="184" r="12" fill="#00B7FF"/>
+    <path d="M673 196V214" stroke="#00B7FF" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <text x="76" y="134" fill="#E5E7EB" font-family="Consolas, 'Courier New', monospace" font-size="28" font-weight="700">&gt; whoami</text>
+  <text x="76" y="196" fill="#00FF88" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="900" letter-spacing="-2">cau4svg</text>
+  <text x="82" y="238" fill="#B7F7D4" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">APIs • Security • Automation • Backend</text>
+  <text x="82" y="274" fill="#9CA3AF" font-family="Consolas, 'Courier New', monospace" font-size="17">infra mindset / secure habits / useful scripts / clean docs</text>
+
+  <g opacity="0.34">
+    <text x="74" y="324" fill="#00B7FF" font-family="Consolas, 'Courier New', monospace" font-size="13">[logs] request accepted :: build practical tools :: automate repetitive workflows</text>
   </g>
 </svg>
