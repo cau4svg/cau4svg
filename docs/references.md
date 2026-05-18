@@ -5,7 +5,7 @@ This file records decisions and dependencies used in the profile README.
 ## Current data
 
 - GitHub username: `cau4svg`
-- Name: `Caua Souza`
+- Name: `Cauã Alves`
 - Country: Brazil
 - Expected profile repository: `cau4svg/cau4svg`
 - Main file: `README.md`

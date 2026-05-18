@@ -1,5 +1,5 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Caua Souza GitHub profile banner</title>
+  <title id="title">Cauã Alves GitHub profile banner</title>
   <desc id="desc">Clean tech banner for a junior developer focused on infrastructure, automation, APIs, backend and security fundamentals.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
@@ -34,7 +34,7 @@
     <path d="M804 252H1052" stroke="#334155" stroke-width="2" stroke-linecap="round"/>
   </g>
 
-  <text x="80" y="134" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="-1.5">Caua Souza</text>
+  <text x="80" y="134" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="-1.5">Cauã Alves</text>
   <text x="82" y="178" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="600">Junior Developer • Infrastructure • Automation</text>
   <text x="82" y="220" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="18">APIs, backend, integrations and security fundamentals.</text>
 
