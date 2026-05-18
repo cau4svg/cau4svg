@@ -48,11 +48,8 @@ I am building my technical base through practical projects, small automations an
   <img src="https://img.shields.io/badge/Security%20Fundamentals-475569?style=flat-square" alt="Security fundamentals" />
 </div>
 
-## Featured projects
+## Knowledge
 
-I am not highlighting specific repositories yet. This section will be updated as I publish projects that better represent my work with automation, APIs, backend, infrastructure and security fundamentals.
-
-| Status | Project direction | Goal |
 | --- | --- | --- |
 | Planning | Process automation | Build scripts and tools that reduce repetitive operational tasks |
 | Practicing | API integrations | Connect services and handle data flows with simple backend logic |
