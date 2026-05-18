@@ -1,48 +1,51 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">cau4svg GitHub profile banner</title>
-  <desc id="desc">Modern professional banner focused on APIs, automations, backend and integrations.</desc>
+  <title id="title">Caua Souza GitHub profile banner</title>
+  <desc id="desc">Clean tech banner for a junior developer focused on infrastructure, automation, APIs, backend and security fundamentals.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0F172A"/>
-      <stop offset="0.54" stop-color="#134E4A"/>
+      <stop stop-color="#0B1120"/>
+      <stop offset="0.52" stop-color="#132F3A"/>
       <stop offset="1" stop-color="#0F766E"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(920 72) rotate(136.8) scale(460 220)">
-      <stop stop-color="#5EEAD4" stop-opacity="0.45"/>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(920 80) rotate(138) scale(420 220)">
+      <stop stop-color="#5EEAD4" stop-opacity="0.34"/>
       <stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/>
     </radialGradient>
-    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
-      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#020617" flood-opacity="0.28"/>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#020617" flood-opacity="0.3"/>
     </filter>
   </defs>
 
   <rect width="1200" height="360" rx="32" fill="url(#bg)"/>
   <rect width="1200" height="360" rx="32" fill="url(#glow)"/>
-  <path d="M0 280C142 226 254 332 400 278C558 220 628 72 792 88C924 101 1008 226 1200 178V360H0V280Z" fill="#042F2E" opacity="0.42"/>
-  <path d="M80 86H354" stroke="#99F6E4" stroke-width="2" stroke-linecap="round" opacity="0.42"/>
-  <path d="M80 272H520" stroke="#99F6E4" stroke-width="2" stroke-linecap="round" opacity="0.2"/>
+  <path d="M0 284C134 232 258 318 402 274C548 230 624 104 782 96C930 88 1024 220 1200 172V360H0V284Z" fill="#020617" opacity="0.38"/>
+  <path d="M78 82H358" stroke="#99F6E4" stroke-width="2" stroke-linecap="round" opacity="0.35"/>
+  <path d="M78 278H520" stroke="#99F6E4" stroke-width="2" stroke-linecap="round" opacity="0.18"/>
 
-  <g filter="url(#softShadow)">
-    <rect x="766" y="74" width="328" height="210" rx="24" fill="#0F172A" fill-opacity="0.62" stroke="#5EEAD4" stroke-opacity="0.28"/>
-    <circle cx="804" cy="116" r="7" fill="#F87171"/>
-    <circle cx="828" cy="116" r="7" fill="#FBBF24"/>
-    <circle cx="852" cy="116" r="7" fill="#34D399"/>
-    <path d="M804 162L852 190L804 218" stroke="#5EEAD4" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M884 222H1018" stroke="#E2E8F0" stroke-width="10" stroke-linecap="round"/>
-    <path d="M884 162H1038" stroke="#94A3B8" stroke-width="8" stroke-linecap="round" opacity="0.9"/>
-    <path d="M884 190H1004" stroke="#94A3B8" stroke-width="8" stroke-linecap="round" opacity="0.58"/>
+  <g filter="url(#shadow)">
+    <rect x="762" y="72" width="334" height="216" rx="24" fill="#0F172A" fill-opacity="0.68" stroke="#5EEAD4" stroke-opacity="0.24"/>
+    <circle cx="804" cy="114" r="7" fill="#64748B"/>
+    <circle cx="828" cy="114" r="7" fill="#0F766E"/>
+    <circle cx="852" cy="114" r="7" fill="#5EEAD4"/>
+    <path d="M804 166L854 192L804 218" stroke="#5EEAD4" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M886 222H1018" stroke="#E2E8F0" stroke-width="9" stroke-linecap="round"/>
+    <path d="M886 162H1042" stroke="#94A3B8" stroke-width="7" stroke-linecap="round" opacity="0.9"/>
+    <path d="M886 190H1008" stroke="#94A3B8" stroke-width="7" stroke-linecap="round" opacity="0.58"/>
+    <path d="M804 252H1052" stroke="#334155" stroke-width="2" stroke-linecap="round"/>
   </g>
 
-  <text x="80" y="140" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="-1.8">cau4svg</text>
-  <text x="82" y="188" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">APIs • Automacoes • Backend • Integracoes</text>
-  <text x="82" y="232" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="18">Construindo solucoes tecnicas claras, modernas e confiaveis.</text>
+  <text x="80" y="134" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="-1.5">Caua Souza</text>
+  <text x="82" y="178" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="600">Junior Developer • Infrastructure • Automation</text>
+  <text x="82" y="220" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="18">APIs, backend, integrations and security fundamentals.</text>
 
-  <g opacity="0.7">
-    <rect x="82" y="254" width="88" height="30" rx="15" fill="#ECFEFF" fill-opacity="0.12" stroke="#A7F3D0" stroke-opacity="0.24"/>
-    <text x="104" y="275" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Node.js</text>
-    <rect x="184" y="254" width="106" height="30" rx="15" fill="#ECFEFF" fill-opacity="0.12" stroke="#A7F3D0" stroke-opacity="0.24"/>
-    <text x="205" y="275" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">TypeScript</text>
-    <rect x="304" y="254" width="82" height="30" rx="15" fill="#ECFEFF" fill-opacity="0.12" stroke="#A7F3D0" stroke-opacity="0.24"/>
-    <text x="328" y="275" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Python</text>
+  <g opacity="0.82">
+    <rect x="82" y="246" width="74" height="30" rx="15" fill="#ECFEFF" fill-opacity="0.11" stroke="#A7F3D0" stroke-opacity="0.22"/>
+    <text x="104" y="267" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">APIs</text>
+    <rect x="170" y="246" width="112" height="30" rx="15" fill="#ECFEFF" fill-opacity="0.11" stroke="#A7F3D0" stroke-opacity="0.22"/>
+    <text x="190" y="267" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Automation</text>
+    <rect x="296" y="246" width="104" height="30" rx="15" fill="#ECFEFF" fill-opacity="0.11" stroke="#A7F3D0" stroke-opacity="0.22"/>
+    <text x="318" y="267" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Backend</text>
+    <rect x="414" y="246" width="104" height="30" rx="15" fill="#ECFEFF" fill-opacity="0.11" stroke="#A7F3D0" stroke-opacity="0.22"/>
+    <text x="435" y="267" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Security</text>
   </g>
 </svg>
