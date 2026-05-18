@@ -86,7 +86,7 @@ Meu objetivo e criar projetos simples, uteis e bem documentados, conectando dese
 | APIs e integracoes | Conexoes entre servicos, consumo de dados, webhooks e fluxos automatizados |
 | Backend | Scripts, endpoints, validacoes, organizacao de codigo e servicos simples |
 | Automacao | Ferramentas para acelerar rotinas, reduzir erro manual e melhorar operacoes |
-| Infraestrutura | Ambiente Linux, GitHub Actions, Docker e organizacao de deploys simples |
+| Infraestrutura | Ambiente Linux, GitHub Actions, Docker, Deploys de projetos em stacks como Node, Python, JS, Laravel, PHP, dentre outros |
 | Seguranca | Fundamentos, boas praticas, leitura de riscos e hardening basico |
 
 
