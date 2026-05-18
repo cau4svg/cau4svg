@@ -29,12 +29,17 @@ I am building my technical base through practical projects, small automations an
 | Development | Junior | Backend logic, APIs, scripts and web fundamentals |
 | Process automation | Practicing | Repetitive task reduction, integrations and workflow improvements |
 
+<br />
+
 ## Technical stack
+
+<br />
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,git,github,linux,docker&theme=light" alt="JavaScript, TypeScript, Node.js, Python, HTML, CSS, Git, GitHub, Linux and Docker" />
 </div>
 
+<br />
 <br />
 
 <div align="center">
@@ -46,12 +51,12 @@ I am building my technical base through practical projects, small automations an
   <img src="https://img.shields.io/badge/APIs-0F766E?style=flat-square" alt="APIs" />
   <img src="https://img.shields.io/badge/Automation-334155?style=flat-square" alt="Automation" />
   <img src="https://img.shields.io/badge/Security%20Fundamentals-475569?style=flat-square" alt="Security fundamentals" />
-  </br>
 </div>
 
+<br />
+<br />
+
 <img src="./assets/divider.svg" alt="" width="100%" />
-
-
 
 ## Contact
 
