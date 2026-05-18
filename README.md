@@ -32,14 +32,6 @@ Meu nome e **Cau&atilde; Alves**, sou do Brasil e estou evoluindo como desenvolv
 
 Meu objetivo e criar projetos simples, uteis e bem documentados, conectando desenvolvimento com operacao, seguranca basica e melhoria de fluxos.
 
-```txt
-profile://cau4svg
-role: junior developer
-base: infrastructure
-focus: automation, APIs, backend, security fundamentals
-status: learning in public and building practical tools
-```
-
 ## Conhecimentos atuais
 
 | Area | Nivel atual | Direcao |
@@ -97,41 +89,10 @@ status: learning in public and building practical tools
 | Infraestrutura | Ambiente Linux, GitHub Actions, Docker e organizacao de deploys simples |
 | Seguranca | Fundamentos, boas praticas, leitura de riscos e hardening basico |
 
-## Projetos
-
-Ainda estou organizando os repositorios que quero destacar. A ideia e priorizar projetos pequenos, funcionais e bem documentados, com foco em:
-
-- automacoes de processos;
-- integracoes com APIs;
-- ferramentas para desenvolvedores;
-- backend utilitario;
-- estudos praticos de seguranca.
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## GitHub stats
-
-<div align="center">
-  <a href="https://github.com/cau4svg?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositorios-Ver%20codigo-050B0E?style=for-the-badge&logo=github&logoColor=00FF88&labelColor=050B0E&color=0B1117" alt="Ver repositorios de cau4svg" />
-  </a>
-  <a href="https://github.com/cau4svg?tab=followers">
-    <img src="https://img.shields.io/github/followers/cau4svg?style=for-the-badge&logo=github&label=Followers&labelColor=050B0E&color=0B1117" alt="Seguidores no GitHub" />
-  </a>
-  <a href="https://github.com/cau4svg?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-Referencias%20tecnicas-050B0E?style=for-the-badge&logo=github&logoColor=00B7FF&labelColor=050B0E&color=0B1117" alt="Stars e referencias tecnicas" />
-  </a>
-</div>
-
 <br />
-
-<p align="center">
-  Preferi usar metricas leves e estaveis para evitar cards externos quebrados no README.
-</p>
-
-## Automacao opcional
-
-O workflow `.github/workflows/generate-snake.yml` pode gerar uma snake animation na branch `output`. Recomendo ativar a imagem no README apenas depois que o workflow rodar com sucesso, para evitar placeholders quebrados.
 
 ## Contato
 
@@ -142,10 +103,3 @@ O workflow `.github/workflows/generate-snake.yml` pode gerar uma snake animation
 </div>
 
 <br />
-
-```txt
-> building practical tools
-> learning security fundamentals
-> automating repetitive workflows
-> commit --message "keep improving"
-```
