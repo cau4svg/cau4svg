@@ -60,29 +60,7 @@ I am not highlighting specific repositories yet. This section will be updated as
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## GitHub stats
 
-<div align="center">
-  <a href="https://github.com/cau4svg?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View%20work-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="View repositories from cau4svg" />
-  </a>
-  <a href="https://github.com/cau4svg?tab=followers">
-    <img src="https://img.shields.io/github/followers/cau4svg?style=for-the-badge&logo=github&label=Followers&color=334155" alt="GitHub followers for cau4svg" />
-  </a>
-  <a href="https://github.com/cau4svg?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-Tech%20references-475569?style=for-the-badge&logo=github&logoColor=white" alt="GitHub stars from cau4svg" />
-  </a>
-</div>
-
-<br />
-
-<p align="center">
-  This profile avoids unstable external stat cards by default. The optional snake animation can be enabled after the workflow creates the <code>output</code> branch.
-</p>
-
-## Automation
-
-The workflow at `.github/workflows/generate-snake.yml` is ready to generate a contribution snake SVG. After it runs successfully, the generated files will be published to the `output` branch of `cau4svg/cau4svg`.
 
 ## Contact
 
