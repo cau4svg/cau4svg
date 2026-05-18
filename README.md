@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Banner profissional de Caua Souza" width="100%" />
+  <img src="./assets/banner.svg" alt="Banner profissional de Cauã Alves" width="100%" />
 </div>
 
 <br />
@@ -14,7 +14,7 @@
 
 ## About me
 
-I am **Caua Souza**, a junior developer from Brazil with an infrastructure background and a growing interest in process automation, APIs, backend development, integrations and cybersecurity fundamentals.
+I am **Cauã Alves**, a junior developer from Brazil with an infrastructure background and a growing interest in process automation, APIs, backend development, integrations and cybersecurity fundamentals.
 
 I am building my technical base through practical projects, small automations and continuous study. My focus is to solve real operational problems with clear, maintainable and useful technology.
 
