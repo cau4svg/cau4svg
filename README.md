@@ -14,9 +14,9 @@
 
 ## Sobre mim
 
-Sou desenvolvedor focado em criar solucoes praticas com APIs, automacoes, backend e integracoes. Gosto de transformar processos repetitivos em sistemas claros, confiaveis e faceis de manter.
+Sou desenvolvedor focado em criar soluções práticas com APIs, automações, backend e integrações. Gosto de transformar processos repetitivos em sistemas claros, confiáveis e fáceis de manter.
 
-Atualmente este perfil esta sendo organizado para apresentar meus projetos, stack principal e evolucao tecnica de forma objetiva.
+Atualmente este perfil está sendo organizado para apresentar meus projetos, stack principal e evolução técnica de forma objetiva.
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
@@ -35,59 +35,36 @@ Atualmente este perfil esta sendo organizado para apresentar meus projetos, stac
   <img src="https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/APIs-0F766E?style=flat-square" alt="APIs" />
-  <img src="https://img.shields.io/badge/Automacao-334155?style=flat-square" alt="Automacao" />
+  <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-334155?style=flat-square" alt="Automação" />
 </div>
 
 ## Projetos em destaque
 
-> Em breve: adicione aqui os repositorios que melhor representam seu trabalho.
-
-| Projeto | Descricao | Stack |
-| --- | --- | --- |
-| `api-automation-lab` | Experimentos com APIs, automacoes e integracoes. | Node.js, TypeScript, APIs |
-| `backend-toolkit` | Utilitarios para backend, scripts e organizacao de fluxos. | Python, Node.js |
-| `github-profile-readme` | Estrutura visual e automatizada para este perfil. | Markdown, SVG, GitHub Actions |
+Ainda não estou destacando projetos específicos neste perfil. Esta seção será atualizada quando houver repositórios públicos que representem melhor meu trabalho com APIs, automações, backend e integrações.
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## Estatisticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=cau4svg&show_icons=true&theme=transparent&hide_border=true&title_color=0f766e&text_color=334155&icon_color=0f766e"
-      media="(prefers-color-scheme: light)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=cau4svg&show_icons=true&theme=transparent&hide_border=true&title_color=5eead4&text_color=cbd5e1&icon_color=2dd4bf"
-      alt="Estatisticas do GitHub de cau4svg"
-      height="165"
-    />
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cau4svg&layout=compact&theme=transparent&hide_border=true&title_color=0f766e&text_color=334155"
-      media="(prefers-color-scheme: light)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cau4svg&layout=compact&theme=transparent&hide_border=true&title_color=5eead4&text_color=cbd5e1"
-      alt="Linguagens mais usadas por cau4svg"
-      height="165"
-    />
-  </picture>
+  <a href="https://github.com/cau4svg?tab=repositories">
+    <img src="https://img.shields.io/badge/Reposit%C3%B3rios-Ver%20projetos-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositórios de cau4svg" />
+  </a>
+  <a href="https://github.com/cau4svg?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-Curadoria%20t%C3%A9cnica-334155?style=for-the-badge&logo=github&logoColor=white" alt="Ver stars de cau4svg" />
+  </a>
 </div>
 
-## Automacao
+<br />
 
-Este perfil pode gerar uma animacao snake automaticamente com GitHub Actions. Depois que o workflow rodar, a imagem abaixo sera publicada na branch `output`.
+<p align="center">
+  Cards externos de estatísticas podem falhar temporariamente por limite ou indisponibilidade do serviço.
+  Por isso, esta versão evita imagens quebradas e prioriza links estáveis do próprio GitHub.
+</p>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cau4svg/cau4svg/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cau4svg/cau4svg/output/github-contribution-grid-snake.svg" />
-    <img alt="Animacao snake das contribuicoes do GitHub" src="https://raw.githubusercontent.com/cau4svg/cau4svg/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+## Automação
+
+O workflow em `.github/workflows/generate-snake.yml` está pronto para gerar a animação snake. Depois que ele rodar com sucesso e criar a branch `output`, a imagem pode ser ativada no README sem quebrar o layout.
 
 ## Contato
 
@@ -100,5 +77,5 @@ Este perfil pode gerar uma animacao snake automaticamente com GitHub Actions. De
 <br />
 
 <p align="center">
-  Aberto a colaborar em projetos envolvendo APIs, automacoes, backend, integracoes e ferramentas para produtividade.
+  Aberto a colaborar em projetos envolvendo APIs, automações, backend, integrações e ferramentas para produtividade.
 </p>
