@@ -8,11 +8,11 @@
   <a href="https://github.com/cau4svg">
     <img src="https://img.shields.io/badge/GitHub-cau4svg-050B0E?style=for-the-badge&logo=github&logoColor=00FF88" alt="GitHub cau4svg" />
   </a>
-  <img src="https://img.shields.io/badge/APIs-Security-Automation-00FF88?style=for-the-badge&labelColor=050B0E&color=00FF88" alt="APIs Security Automation" />
-  <img src="https://img.shields.io/badge/Backend-DevSecOps%20Mindset-00B7FF?style=for-the-badge&labelColor=050B0E&color=00B7FF" alt="Backend DevSecOps mindset" />
+  <img src="https://img.shields.io/badge/APIs-Security%20Automation-00FF88?style=for-the-badge&labelColor=050B0E&color=00FF88" alt="APIs Security Automation" />
+  <img src="https://img.shields.io/badge/Backend-DevSecOps%20Mindset-00BFFF?style=for-the-badge&labelColor=050B0E&color=00BFFF" alt="Backend DevSecOps mindset" />
 </div>
 
-<br />
+<br>
 
 <h1 align="center">cau4svg</h1>
 
@@ -24,13 +24,19 @@
   Construindo uma base tecnica solida com projetos praticos, integracoes e ferramentas que resolvem problemas reais.
 </p>
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<div align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</div>
+
+<br>
 
 ## Sobre mim
 
 Meu nome e **Cau&atilde; Alves**, sou do Brasil e estou evoluindo como desenvolvedor com uma base previa em infraestrutura. Tenho interesse em backend, automacoes, APIs, integracoes, seguranca aplicada e cultura DevSecOps.
 
 Meu objetivo e criar projetos simples, uteis e bem documentados, conectando desenvolvimento com operacao, seguranca basica e melhoria de fluxos.
+
+<br>
 
 ## Conhecimentos atuais
 
@@ -41,35 +47,35 @@ Meu objetivo e criar projetos simples, uteis e bem documentados, conectando dese
 | Desenvolvimento | Junior | Backend, scripts, APIs, Git e fundamentos web |
 | Automacao | Em pratica | Reducao de tarefas repetitivas, integracoes e melhoria de processos |
 
-<br />
+<br>
 
 ## Stack e ferramentas
-
-<br />
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,git,github,linux,docker&theme=dark" alt="JavaScript, TypeScript, Node.js, Python, HTML, CSS, Git, GitHub, Linux e Docker" />
 </div>
 
-<br />
-<br />
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-050B0E?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-050B0E?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-050B0E?style=flat-square&logo=nodedotjs&logoColor=00FF88" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-050B0E?style=flat-square&logo=python&logoColor=00B7FF" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-050B0E?style=flat-square&logo=python&logoColor=00BFFF" alt="Python" />
   <img src="https://img.shields.io/badge/Linux-050B0E?style=flat-square&logo=linux&logoColor=E5E7EB" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-050B0E?style=flat-square&logo=docker&logoColor=00B7FF" alt="Docker" />
+  <img src="https://img.shields.io/badge/Docker-050B0E?style=flat-square&logo=docker&logoColor=00BFFF" alt="Docker" />
   <img src="https://img.shields.io/badge/APIs-050B0E?style=flat-square&logo=fastapi&logoColor=00FF88" alt="APIs" />
   <img src="https://img.shields.io/badge/Automation-050B0E?style=flat-square&logo=githubactions&logoColor=00FF88" alt="Automation" />
   <img src="https://img.shields.io/badge/Security%20Fundamentals-050B0E?style=flat-square&logo=hackthebox&logoColor=00FF88" alt="Security fundamentals" />
 </div>
 
-<br />
-<br />
+<br>
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<div align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</div>
+
+<br>
 
 ## Foco atual
 
@@ -78,6 +84,8 @@ Meu objetivo e criar projetos simples, uteis e bem documentados, conectando dese
 - Melhorar backend com Node.js, TypeScript e Python.
 - Trabalhar com APIs, webhooks, integracoes e fluxos de dados.
 - Documentar projetos com clareza para facilitar uso, manutencao e evolucao.
+
+<br>
 
 ## Areas de atuacao
 
@@ -89,11 +97,13 @@ Meu objetivo e criar projetos simples, uteis e bem documentados, conectando dese
 | Infraestrutura | Ambiente Linux, GitHub Actions, Docker, Deploys de projetos em stacks como Node, Python, JS, Laravel, PHP, dentre outros |
 | Seguranca | Fundamentos, boas praticas, leitura de riscos e hardening basico |
 
+<br>
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<div align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</div>
 
-<br />
-<br />
+<br>
 
 ## Contato
 
@@ -103,4 +113,4 @@ Meu objetivo e criar projetos simples, uteis e bem documentados, conectando dese
   </a>
 </div>
 
-<br />
+<br>
