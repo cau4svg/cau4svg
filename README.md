@@ -38,11 +38,6 @@ Atualmente este perfil está sendo organizado para apresentar meus projetos, sta
   <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-334155?style=flat-square" alt="Automação" />
 </div>
 
-## Projetos em destaque
-
-Ainda não estou destacando projetos específicos neste perfil. Esta seção será atualizada quando houver repositórios públicos que representem melhor meu trabalho com APIs, automações, backend e integrações.
-
-<img src="./assets/divider.svg" alt="" width="100%" />
 
 ## Estatísticas do GitHub
 
