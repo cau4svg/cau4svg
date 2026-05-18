@@ -93,6 +93,7 @@ Meu objetivo e criar projetos simples, uteis e bem documentados, conectando dese
 <img src="./assets/divider.svg" alt="" width="100%" />
 
 <br />
+<br />
 
 ## Contato
 
