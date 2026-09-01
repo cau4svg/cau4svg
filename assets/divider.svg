@@ -1,6 +1,0 @@
-<svg width="1200" height="28" viewBox="0 0 1200 28" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Section divider">
-  <path d="M0 14H472" stroke="#1F6F5B" stroke-width="1.5" stroke-linecap="round" opacity="0.55"/>
-  <path d="M728 14H1200" stroke="#155A78" stroke-width="1.5" stroke-linecap="round" opacity="0.55"/>
-  <rect x="506" y="6" width="188" height="16" rx="8" fill="#050505" stroke="#00FF88" stroke-opacity="0.45"/>
-  <rect x="540" y="10" width="120" height="8" rx="4" fill="#00BFFF" fill-opacity="0.7"/>
-</svg>
